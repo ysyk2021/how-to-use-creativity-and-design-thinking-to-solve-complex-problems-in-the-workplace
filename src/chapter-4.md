@@ -1,5 +1,3 @@
-Chapter 4: Empathizing with Stakeholders
-========================================
 
 Empathizing with stakeholders is a critical step in the design thinking process. In this chapter, we will provide an overview of empathizing with stakeholders in design thinking and explore strategies for doing so effectively.
 

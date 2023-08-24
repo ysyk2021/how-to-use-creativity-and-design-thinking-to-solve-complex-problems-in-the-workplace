@@ -1,5 +1,3 @@
-Overview of Ideating Solutions in Design Thinking
-================================================================================
 
 Ideating solutions is a critical step in the design thinking process. This stage involves generating a wide range of potential solutions to the problem at hand without judgment or bias. By doing so, businesses can identify new opportunities for innovation and ultimately drive success.
 

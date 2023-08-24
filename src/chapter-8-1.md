@@ -1,5 +1,3 @@
-Overview of Implementing Solutions in Design Thinking
-========================================================================================
 
 Implementing solutions is a critical step in the design thinking process. This stage involves taking the ideas generated during the ideation phase and turning them into tangible solutions that can be tested and refined. In this chapter, we will provide an overview of implementing solutions in design thinking.
 

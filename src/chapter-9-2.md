@@ -1,5 +1,3 @@
-Techniques for Incorporating Creativity and Design Thinking into Company Culture
-==============================================================================================================================================================
 
 Incorporating creativity and design thinking into company culture can lead to more innovative solutions to complex problems. In this chapter, we will explore techniques for incorporating creativity and design thinking into company culture.
 

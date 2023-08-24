@@ -1,5 +1,3 @@
-Chapter 6: Ideating Solutions
-=============================
 
 Ideating solutions is a critical step in the design thinking process. In this chapter, we will provide an overview of ideating solutions in design thinking and explore strategies for doing so effectively.
 
@@ -35,5 +33,4 @@ Conclusion
 ----------
 
 Ideating solutions is a critical step in the design thinking process. By using brainstorming, reverse brainstorming, mind mapping, rapid prototyping, and testing and feedback, businesses can generate a wide range of potential solutions and identify the most effective approach to solving the problem at hand.
-
 

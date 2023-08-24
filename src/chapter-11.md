@@ -1,5 +1,3 @@
-Chapter 11: Implementation Strategies for Lasting Change
-========================================================
 
 Implementing creativity and design thinking initiatives in the workplace requires a strategic approach to ensure lasting change. In this chapter, we will explore implementation strategies for achieving long-term success.
 

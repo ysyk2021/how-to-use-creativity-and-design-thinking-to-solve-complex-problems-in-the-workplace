@@ -1,5 +1,3 @@
-Chapter 7: Prototyping and Testing
-==================================
 
 Prototyping and testing is a critical step in the design thinking process. In this chapter, we will explore the importance of prototyping and testing in design thinking and techniques for doing so effectively.
 

@@ -1,5 +1,3 @@
-Strategies for Implementing Solutions in the Workplace
-=========================================================================================
 
 Implementing solutions is a critical step in the design thinking process. In this chapter, we will explore strategies for implementing solutions in the workplace that help businesses turn their ideas into action and achieve long-term success.
 

@@ -1,4 +1,3 @@
-# Strategies for Overcoming These Obstacles
 
 In the previous chapter, we discussed some of the common obstacles to creativity and design thinking in the workplace. In this chapter, we will explore strategies for overcoming these obstacles.
 

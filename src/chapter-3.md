@@ -1,5 +1,3 @@
-Chapter 3: Developing a Creative Mindset
-========================================
 
 Developing a creative mindset is a critical step in the design thinking process. In this chapter, we will explore the importance of developing a creative mindset for problem-solving and techniques for doing so effectively.
 

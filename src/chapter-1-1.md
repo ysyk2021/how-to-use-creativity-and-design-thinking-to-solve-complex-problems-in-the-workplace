@@ -1,5 +1,3 @@
-The Importance of Creativity and Design Thinking in Solving Complex Problems in the Workplace
-======================================================================================================================
 
 Innovation and problem-solving are essential for achieving success in today's rapidly changing business environment. Creativity and design thinking are two key approaches that can help organizations effectively solve complex problems and stay ahead of the curve. In this chapter, we will explore the importance of creativity and design thinking in solving complex problems in the workplace.
 
@@ -34,5 +32,4 @@ Conclusion
 ----------
 
 Innovation and problem-solving are essential for achieving success in today's business environment. Creativity and design thinking are two key approaches that can help organizations effectively solve complex problems and stay ahead of the curve. By embracing creativity and design thinking, individuals and organizations can generate new and innovative ideas, enhance efficiency and productivity, and create opportunities for growth and expansion.
-
 

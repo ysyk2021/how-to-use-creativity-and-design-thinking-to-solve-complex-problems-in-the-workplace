@@ -1,5 +1,3 @@
-Strategies for Ideating Solutions
-================================================================
 
 Ideating solutions is a critical step in the design thinking process. In this chapter, we will explore strategies for ideating solutions that help businesses generate a wide range of ideas and ultimately drive innovation and success.
 

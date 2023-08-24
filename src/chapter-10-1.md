@@ -1,4 +1,3 @@
-# Common Obstacles to Creativity and Design Thinking in the Workplace
 
 While creativity and design thinking can be powerful problem-solving tools in the workplace, there are also a variety of obstacles that can impede their success. In this chapter, we will explore some of the common obstacles to creativity and design thinking in the workplace and strategies for overcoming them.
 

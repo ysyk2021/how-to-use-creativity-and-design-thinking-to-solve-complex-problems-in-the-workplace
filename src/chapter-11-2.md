@@ -1,5 +1,3 @@
-Tracking Progress and Celebrating Successes
-=====================================================================================================
 
 Implementing lasting change requires ongoing monitoring and evaluation to ensure that the proposed solution is effective and meets the needs of users and stakeholders. In this chapter, we will explore implementation strategies for tracking progress and celebrating successes.
 
@@ -35,5 +33,4 @@ Conclusion
 ----------
 
 Tracking progress and celebrating successes are critical components of implementing lasting change in the workplace using creativity and design thinking. By using techniques such as setting measurable goals, regularly gathering feedback, conducting user testing, and using data analytics, businesses can ensure that their proposed solution is effective and meets the needs of users and stakeholders. By celebrating successes, businesses can foster a culture of innovation and creativity and drive long-term success.
-
 

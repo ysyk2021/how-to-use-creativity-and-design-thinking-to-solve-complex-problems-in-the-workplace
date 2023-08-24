@@ -1,5 +1,3 @@
-Chapter 2: Understanding Design Thinking
-========================================
 
 Understanding design thinking is a critical step in applying it to problem-solving in the workplace. In this chapter, we will explore the definition of design thinking and the benefits of using it for problem-solving.
 

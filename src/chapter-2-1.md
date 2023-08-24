@@ -1,5 +1,3 @@
-Definition of Design Thinking
-=======================================================================
 
 Design thinking is a problem-solving approach that emphasizes empathy, collaboration, and experimentation. In this chapter, we will define design thinking and explore its key principles and components.
 

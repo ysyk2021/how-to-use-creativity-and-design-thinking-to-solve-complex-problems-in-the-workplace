@@ -1,5 +1,3 @@
-Chapter 5: Defining the Problem
-===============================
 
 Defining the problem is a critical step in the design thinking process. In this chapter, we will explore the importance of defining the problem in design thinking and techniques for doing so effectively.
 

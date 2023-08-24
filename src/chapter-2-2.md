@@ -1,5 +1,3 @@
-Benefits of Design Thinking for Problem-Solving in the Workplace
-==========================================================================================================
 
 Design thinking is a problem-solving approach that emphasizes human-centered design, empathy, and experimentation. In this chapter, we will explore the benefits of design thinking for problem-solving in the workplace.
 

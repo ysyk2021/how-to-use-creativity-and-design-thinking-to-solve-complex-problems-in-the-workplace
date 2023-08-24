@@ -1,5 +1,3 @@
-Techniques for Defining the Problem
-====================================================================
 
 Defining the problem is a critical step in the design thinking process. In this chapter, we will explore techniques for defining the problem that will help businesses generate solutions that effectively address the underlying issues and drive long-term success.
 

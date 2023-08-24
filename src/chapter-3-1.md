@@ -1,5 +1,3 @@
-Importance of Developing a Creative Mindset for Problem-Solving
-=========================================================================================================
 
 Developing a creative mindset is critical for effective problem-solving in the workplace. In this chapter, we will explore the importance of developing a creative mindset for problem-solving.
 

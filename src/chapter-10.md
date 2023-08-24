@@ -1,5 +1,3 @@
-Chapter 10: Overcoming Obstacles to Creativity and Design Thinking in the Workplace
-===================================================================================
 
 Incorporating creativity and design thinking into the workplace can be challenging due to common obstacles that may arise. In this chapter, we will explore these obstacles and strategies for overcoming them.
 

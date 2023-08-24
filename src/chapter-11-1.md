@@ -1,5 +1,3 @@
-Creating a Roadmap for Using Creativity and Design Thinking to Solve Complex Problems in the Workplace
-================================================================================================================================================================
 
 Implementing lasting change in the workplace requires a strategic approach. In this chapter, we will explore implementation strategies for using creativity and design thinking to solve complex problems in the workplace and create a roadmap for success.
 

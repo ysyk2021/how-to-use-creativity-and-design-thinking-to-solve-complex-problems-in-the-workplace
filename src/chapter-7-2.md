@@ -1,5 +1,3 @@
-Techniques for Prototyping and Testing Solutions
-====================================================================================
 
 Prototyping and testing are critical components of the design thinking process. In this chapter, we will explore techniques for prototyping and testing solutions to ensure that they meet the needs of users and stakeholders.
 

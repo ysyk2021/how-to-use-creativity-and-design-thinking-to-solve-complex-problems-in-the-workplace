@@ -1,5 +1,3 @@
-Importance of Incorporating Creativity and Design Thinking into Company Culture
-=============================================================================================================================================================
 
 Incorporating creativity and design thinking into company culture can have numerous benefits for businesses. In this chapter, we will explore the importance of incorporating creativity and design thinking into company culture.
 

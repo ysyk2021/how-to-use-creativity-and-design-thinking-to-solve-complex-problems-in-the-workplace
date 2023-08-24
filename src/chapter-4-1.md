@@ -1,4 +1,3 @@
-# Overview of Empathizing with Stakeholders in Design Thinking
 
 Empathy is a crucial element of the design thinking process, which involves understanding the needs, wants, and challenges of stakeholders. By developing empathy for stakeholders, designers can gain valuable insights into their perspectives and experiences, leading to more effective problem-solving and solutions that better address their needs.
 

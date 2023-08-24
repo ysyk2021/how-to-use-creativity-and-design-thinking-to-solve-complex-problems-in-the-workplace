@@ -1,5 +1,3 @@
-Techniques for Developing a Creative Mindset
-======================================================================================
 
 Developing a creative mindset is essential for effectively using creativity and design thinking to solve complex problems in the workplace. In this chapter, we will explore techniques for developing a creative mindset.
 

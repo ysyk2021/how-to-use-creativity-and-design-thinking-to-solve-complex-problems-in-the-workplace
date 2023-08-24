@@ -1,4 +1,3 @@
-# Introduction
 
 In today's complex and rapidly changing work environment, creativity and design thinking have become essential tools for solving problems and driving innovation. In this book, we explore the ways in which these approaches can be used to tackle complex problems in the workplace.
 

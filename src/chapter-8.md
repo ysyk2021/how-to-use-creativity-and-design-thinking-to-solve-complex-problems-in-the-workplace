@@ -1,5 +1,3 @@
-Chapter 8: Implementing Solutions
-=================================
 
 Implementing solutions in the workplace is a critical step in the design thinking process. In this chapter, we will provide an overview of implementing solutions in design thinking and explore strategies for implementing solutions in the workplace.
 
