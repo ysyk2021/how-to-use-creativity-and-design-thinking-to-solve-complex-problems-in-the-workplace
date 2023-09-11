@@ -1,5 +1,4 @@
-Chapter 3: Strategies for Empathizing with Stakeholders
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Empathizing with stakeholders is the foundation of successful design thinking. In this chapter, we will explore strategies and techniques to enhance your ability to empathize effectively with stakeholders in the workplace.
 

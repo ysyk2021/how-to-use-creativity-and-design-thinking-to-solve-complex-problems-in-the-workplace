@@ -1,5 +1,4 @@
-Chapter 8: Techniques for Incorporating Creativity and Design Thinking into Company Culture
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a workplace culture that embraces creativity and design thinking is pivotal for solving complex problems effectively. In this chapter, we'll explore techniques and strategies to infuse these principles into your company's DNA.
 

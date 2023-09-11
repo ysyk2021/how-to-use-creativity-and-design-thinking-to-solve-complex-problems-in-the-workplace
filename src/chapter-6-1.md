@@ -1,5 +1,4 @@
-Chapter 4: Overview of Ideating Solutions in Design Thinking
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ideating solutions is a pivotal stage in the design thinking process, where creativity and innovation come to the forefront. In this chapter, we will delve into the critical phase of ideation, exploring its principles, techniques, and importance in using design thinking to solve complex workplace problems.
 

@@ -1,5 +1,4 @@
-Chapter 10: Overview of Implementing Solutions in Design Thinking
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing solutions is a critical phase in the design thinking process, where creative ideas are transformed into actionable strategies that address complex problems in the workplace. In this chapter, we'll provide an overview of the key steps and principles involved in successfully bringing design thinking solutions to life.
 

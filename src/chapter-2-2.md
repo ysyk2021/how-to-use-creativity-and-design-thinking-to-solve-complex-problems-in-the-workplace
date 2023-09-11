@@ -1,5 +1,4 @@
-Chapter 2: Benefits of Design Thinking for Problem-Solving in the Workplace
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Design thinking offers numerous tangible benefits when applied to problem-solving in the workplace. In this chapter, we'll explore these advantages and how they contribute to fostering a culture of innovation and effective problem-solving.
 

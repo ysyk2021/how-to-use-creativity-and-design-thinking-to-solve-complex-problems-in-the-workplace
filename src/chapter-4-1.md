@@ -1,5 +1,4 @@
-Chapter 2: Overview of Empathizing with Stakeholders in Design Thinking
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Design thinking is a human-centered approach to problem-solving that places a strong emphasis on understanding and empathizing with the needs, perspectives, and emotions of the stakeholders involved. This chapter provides an in-depth overview of the crucial first stage of design thinking: empathizing with stakeholders.
 

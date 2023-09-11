@@ -1,5 +1,4 @@
-Chapter 10: Strategies for Implementing Solutions in the Workplace
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Bringing your creative and design thinking solutions to life within the workplace is a crucial step toward solving complex problems effectively. In this chapter, we'll explore strategies and best practices for successfully implementing solutions and driving meaningful change.
 

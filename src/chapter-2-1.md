@@ -1,5 +1,4 @@
-Chapter 1: Definition of Design Thinking
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Design thinking is a powerful and innovative problem-solving approach that has gained prominence in workplaces worldwide. In this chapter, we will explore the fundamental definition of design thinking and its core principles.
 

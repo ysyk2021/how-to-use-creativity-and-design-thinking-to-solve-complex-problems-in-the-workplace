@@ -1,5 +1,4 @@
-Chapter 3: Techniques for Defining the Problem
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Defining the problem accurately is a critical first step in the design thinking process. In this chapter, we will explore various techniques and methods that can help teams define complex workplace problems effectively.
 

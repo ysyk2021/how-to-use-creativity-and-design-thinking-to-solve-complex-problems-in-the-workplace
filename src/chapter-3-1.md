@@ -1,5 +1,4 @@
-Chapter 4: The Importance of Developing a Creative Mindset for Problem-Solving
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creativity is the lifeblood of innovation, and in the workplace, it is a driving force behind effective problem-solving. In this chapter, we explore the critical role of developing a creative mindset in harnessing the power of design thinking to tackle complex workplace challenges.
 

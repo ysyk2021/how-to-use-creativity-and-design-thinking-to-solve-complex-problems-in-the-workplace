@@ -1,5 +1,4 @@
-Chapter 7: Strategies for Overcoming Obstacles in Workplace Problem-Solving
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While creativity and design thinking offer powerful tools for solving complex workplace problems, they are not without challenges. In this chapter, we'll explore strategies to overcome common obstacles and ensure successful problem-solving using creativity and design thinking.
 

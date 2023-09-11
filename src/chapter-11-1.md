@@ -1,5 +1,4 @@
-Chapter 6: Creating a Roadmap for Using Creativity and Design Thinking to Solve Complex Problems in the Workplace
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline a step-by-step roadmap for effectively leveraging creativity and design thinking to tackle complex workplace problems. By following this roadmap, you can systematically integrate these powerful problem-solving methodologies into your organization's processes.
 

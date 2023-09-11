@@ -1,5 +1,4 @@
-Chapter 9: Tracking Progress and Celebrating Successes
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Measuring and celebrating progress is essential for maintaining momentum and ensuring the sustained integration of creativity and design thinking into your workplace. In this chapter, we'll explore strategies for tracking your journey and acknowledging the successes along the way.
 

@@ -1,5 +1,4 @@
-Chapter 6: Common Obstacles to Creativity and Design Thinking in the Workplace
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The journey to harnessing creativity and design thinking in the workplace is not always smooth sailing. In this chapter, we'll explore the common obstacles that organizations and individuals often encounter when trying to apply creativity and design thinking to solve complex problems.
 

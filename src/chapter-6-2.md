@@ -1,5 +1,4 @@
-Chapter 6: Strategies for Ideating Solutions
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ideation is a crucial phase in the creative problem-solving process. It's the stage where innovative ideas are generated, refined, and developed into potential solutions. In this chapter, we will explore various strategies and techniques to enhance your ideation process when using creativity and design thinking to solve complex problems in the workplace.
 

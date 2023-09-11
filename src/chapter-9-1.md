@@ -1,5 +1,4 @@
-Chapter 3: The Importance of Incorporating Creativity and Design Thinking into Company Culture
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving business landscape, companies must adapt to stay competitive. Incorporating creativity and design thinking into company culture has become a critical element in achieving long-term success. This chapter explores the significance of fostering a culture that values and encourages creativity and design thinking.
 
